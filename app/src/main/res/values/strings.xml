@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Home</string>
+    <string name="textView">The First Project</string>
+    <string name="title_activity_my_buttons">My buttons</string>
+    <string name="title_activity_my_websites">My favourite websites</string>
+    <string name="title_activity_my_list">My list</string>
+    <string name="home">Home</string>
+    <string name="mybuttons">My buttons</string>
+    <string name="mywebsites">My websites</string>
+    <string name="mylist">My list</string>
+    <string name="text_switch">Text Switch</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="switch_on">Switch ON</string>
+    <string name="switch_off">Switch OFF</string>
+    <string name="text_man">Man</string>
+    <string name="text_woman">Woman</string>
+    <string name="levante_emv">Levante EMV</string>
+    <string name="el_diario_es">El Diario.es</string>
+    <string name="tooglebutton_toasttext">ToggleButton is clicked</string>
+    <string name="toast_text_isclicked"> is clicked</string>
+    <string name="title_message_radiobutton">Radio button action</string>
+    <string name="text_message_radiobutton">Selected element: </string>
+    <string name="text_button_cancel">CANCEL</string>
+    <string name="text_button_yes">YES</string>
+    <string name="text_ok">OK</string>
+    <string name="my_favourite_cars">My Favourite Cars</string>
+    <string name="texto_para_textviewweb">webpage title</string>
+</resources>

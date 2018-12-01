@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mikel.miprimeraaplicacion.MainMenu">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mybuttons"
+        android:title="@string/mybuttons"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mywebsites"
+        android:title="@string/mywebsites"
+        app:showAsAction="never" >
+        <menu>
+            <item android:id="@+id/menuLevante"
+                android:title="@string/levante_emv"
+                />
+            <item android:id="@+id/menuEldiario"
+                android:title="@string/el_diario_es" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/mylist"
+        android:title="@string/mylist"
+        app:showAsAction="never"/>
+</menu>

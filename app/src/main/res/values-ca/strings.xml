@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primera Aplicacion</string>
+    <string name="action_settings">Afinar</string>
+    <string name="title_activity_main">Casa</string>
+    <string name="textView">El Primer Projecte</string>
+    <string name="title_activity_my_buttons">Meus botons</string>
+    <string name="title_activity_my_websites">Meues pagines web Favorites</string>
+    <string name="title_activity_my_list">Meua llista</string>
+    <string name="home">Inici</string>
+    <string name="mybuttons">Els meus botons</string>
+    <string name="mywebsites">Les meues pagines web</string>
+    <string name="mylist">La meua llista</string>
+    <string name="text_switch">Text del Switch</string>
+    <string name="togglebutton">Boto Activacio</string>
+    <string name="switch_on">Canviar ON</string>
+    <string name="switch_off">Canviar OFF</string>
+    <string name="text_man">Home</string>
+    <string name="text_woman">Dona</string>
+    <string name="levante_emv">Levante EMV</string>
+    <string name="el_diario_es">El Diario.es</string>
+    <string name="tooglebutton_toasttext">Boto Activacio polsat</string>
+    <string name="toast_text_isclicked"> polsat</string>
+    <string name="title_message_radiobutton">Accio Boto Radio</string>
+    <string name="text_message_radiobutton">Element seleccionat: </string>
+    <string name="text_button_cancel">CANCEL.LAR</string>
+    <string name="text_button_yes">SI</string>
+    <string name="text_ok">D\'ACORD</string>
+    <string name="my_favourite_cars">Els meus cotxes favorits</string>
+    <string name="texto_para_textviewweb">webpage title</string>
+</resources>

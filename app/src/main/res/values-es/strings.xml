@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Primera Aplicacion</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_main">Inicio</string>
+    <string name="textView">El Primer Proyecto</string>
+    <string name="title_activity_my_buttons">Mis Botones</string>
+    <string name="title_activity_my_websites">Mis paginas web favoritas</string>
+    <string name="title_activity_my_list">Mi Lista</string>
+    <string name="home">Inicio</string>
+    <string name="mybuttons">Mis botones</string>
+    <string name="mywebsites">Mis paginas web</string>
+    <string name="mylist">Mi lista</string>
+    <string name="text_switch">Texto del Switch</string>
+    <string name="togglebutton">Boton Activacion</string>
+    <string name="switch_on">Cambiar ON</string>
+    <string name="switch_off">Cambiar OFF</string>
+    <string name="text_man">Hombre</string>
+    <string name="text_woman">Mujer</string>
+    <string name="levante_emv">Levante EMV</string>
+    <string name="el_diario_es">El Diario.es</string>
+    <string name="tooglebutton_toasttext">Boton Activacion pulsado</string>
+    <string name="toast_text_isclicked">\ pulsado</string>
+    <string name="title_message_radiobutton">Accion Boton Radio</string>
+    <string name="text_message_radiobutton">Elemento seleccionado:\ </string>
+    <string name="text_button_cancel">CANCELAR</string>
+    <string name="text_button_yes">SI</string>
+    <string name="text_ok">DE ACUERDO</string>
+    <string name="my_favourite_cars">Mis coches favoritos</string>
+    <string name="texto_para_textviewweb">webpage title</string>
+</resources>
